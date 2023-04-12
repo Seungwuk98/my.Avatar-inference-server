@@ -1,0 +1,6 @@
+avatar-ai
+
+*.pyc
+**.pyc
+
+my_avatar_ai/

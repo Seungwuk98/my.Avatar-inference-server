@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./my_avatar_ai",
+        "./preprocessor"
+    ]
+}
